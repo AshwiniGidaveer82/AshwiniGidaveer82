@@ -63,8 +63,8 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [ashwinigidaveer@gmail.com](mailto:ashwinigidaveer@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ashwinigidaveer](https://www.linkedin.com/in/ashwinigidaveer)   
+- 📧 Email: [ashwinigidaveer@gmail.com](mailto:gidaveerashwini@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ashwinigidaveer](https://www.linkedin.com/in/ashwini-gidaveer)   
 
 ---
 
