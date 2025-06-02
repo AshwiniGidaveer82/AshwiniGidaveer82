@@ -47,6 +47,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -66,7 +67,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [gidaveerashwini@gmail.com](mailto:gidaveerashwini@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ashwinigidaveer](https://www.linkedin.com/in/ashwini-gidaveer)   
+- 💼 LinkedIn: [linkedin.com/in/AshwiniGidaveer82](https://www.linkedin.com/in/AshwiniGidaveer82)   
 
 ---
 
